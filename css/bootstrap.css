@@ -4993,11 +4993,11 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .nav-justified {
-    width: 100%
+    width: 100%;
 }
 
 .nav-justified>li {
-    float: none
+    float: none;
 }
 
 .nav-justified>li>a {
@@ -5123,10 +5123,10 @@ textarea.input-group-sm>.input-group-btn>.btn {
     max-height: 340px
 }
 
-@media (max-device-width:480px) and (orientation:landscape) {
+@media (max-width:480px) and (orientation:landscape) {
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse {
-        max-height: 200px
+        max-height: 200px;
     }
 }
 
@@ -7681,10 +7681,10 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #000;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 .carousel-indicators .active {
