@@ -12,6 +12,9 @@ body {
 a .btn {
     color: #000;
 }
+.Cont {
+    color: rgb(255, 255, 255);
+}
 .Citation {
     font-size: 1.4em;
     font-weight: bold;
@@ -651,7 +654,6 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -790,12 +792,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #fc8e5b;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #F3976C!important;
     color: #FFFFFF!important;
 }
 
