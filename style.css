@@ -6,6 +6,12 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.fa:before {
+    color: #000;
+}
+a .btn {
+    color: #000;
+}
 .Citation {
     /* position: absolute; */
     font-size: 1.4em;
